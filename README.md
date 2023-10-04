@@ -1,16 +1,16 @@
-<img align='center' src= "images/header.png">
+<img align='center' src= "images/header.gif">
 <div align="center">
 <a href = "https://drive.google.com/file/d/1kLgjjzp-QV0_T0wh7G2JMoD9wPOvtpkG/view?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Sumonta-blue" width="200" height="35"></a>
-<a href = "https://medium.com/me/stories/public" ><img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-brightgreen" width="230" height="35"></a>
-<a href = "https://sumonta056.github.io/" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="220"height="35"></a>
+<a href = "https://medium.com/me/stories/public" ><img src="https://img.shields.io/badge/Medium-Check%20My%20Blog-brightgreen" width="230" height="35"></a>
+<a href = "https://mr-juice.vercel.app/" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="220"height="35"></a>
 </div>
 
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, I am Sumonta Saha Mridul </h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, I am Mr Juice </h1>
 
 
 <p align="center" width="150px"> 
- I am currently studying <b>Software Engineering</b> in <b>Shahjalal University of Science and Technology(SUST)</b> <br>
+ I am currently studying <b>Software Engineering</b> at <b>Tandon University of Science and Technology(TUST)</b> <br>
  Besides, I am a <b>Software Developer💻</b> with a passion for coding and problem solving.<br>
  I also love <b>photography📸</b> as a creative outlet and capturing the world around me
 </p>
@@ -20,29 +20,29 @@
 
 
 <p align='center'>
-<img src="https://komarev.com/ghpvc/?username=sumonta056&label=Profile%20views&color=0e75b6&style=flat" alt="sumonta056" /> <br>
-<a herf = "https://wakatime.com/@sumonta056"> <img src="https://wakatime.com/badge/user/956d8c63-e07e-46bf-b197-9bbb31d68aa9.svg" alt="https://wakatime.com/@sumonta056" /> </a> 
+<img src="https://komarev.com/ghpvc/?username=mrjuice01&label=Profile%20views&color=0e75b6&style=flat" alt="mrjuice01" /> <br>
+<a herf = "https://wakatime.com/@mrjuice01"> <img src="https://wakatime.com/badge/user/956d8c63-e07e-46bf-b197-9bbb31d68aa9.svg" alt="https://wakatime.com/@mrjuice01" /> </a> 
 </p>
  
 
 
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=moltack&hide_border=false&username=sumonta056"  width="450" height="180" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=moltack&hide_border=false&username=mrjuice01"  width="450" height="180" alt="languages graph"  />
 </p>
 
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=sumonta056&theme=moltack&show_icons=true"  width="45%" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=mrjuice01&theme=moltack&show_icons=true"  width="45%" alt="stats graph"  />
 </p>
  
 <p align="center">
-<a herf = "https://wakatime.com/@sumonta056">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sumonta056&theme=moltack&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" /></a>
+<a herf = "https://wakatime.com/@mrjuice01">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mrjuice01&theme=moltack&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" /></a>
 </p>
  
 <p align="center">
-<img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumonta056&theme=moltack"  />
+<img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrjuice01&theme=moltack"  />
     
- <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumonta056&theme=moltack"  />
+ <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrjuice01&theme=moltack"  />
 </p>
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -53,7 +53,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" height="200">
 </p>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51C1F7&width=470&lines=I'm+a+Software+Engineer+Student;I+am+also+a+Software+Developer+;Love+to+take+Photos+and+write+blogs)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51C1F7&width=470&lines=I'm+Mr+Juice;I'm+a+Software+Engineering+Student;I'm+a+Software+Developer+;I'm+a+Full+Stark+Developer+;I'm+a+Youtuber+;I'm+a+Freelancer+;I'm+a+Blogger)](https://git.io/typing-svg)
 
 <p align='left'>
 - 🔭 <b>Software Engineering Undergrad</b> in <b>Shahjalal University of Science and Technology(SUST)</b><br>
@@ -61,7 +61,7 @@
 - ✨ Also focusing on problem-solving and development <br>
 - 👯 Learning & Contributing to <b>Open Source Project</b> 😃<br>
 - 🥅 <i><b>2023 Goals</b></i>: Get ready for Internship and participate in more competitions❤️ <br>
-- ⚡ Fun fact: Why tell you?😏<br>
+- ⚡ Fun fact: Im not funny?😏<br>
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i> Skills:      </i>      
@@ -80,7 +80,6 @@
 ## <i>💻 Familiar with: </i>
 
 <p align = 'right'>
-<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif"  >
 </p>
 
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -94,36 +93,33 @@
 ## <i>📞 Connect with me 
 
 <div align="left">
-  <a href="mailto:sumontasaha80@gmail.com?subject=Want%20to%20contact%20you%20from%20github" target="_blank">
+  <a href="mailto:mrjuice017@gmail.com?subject=Want%20to%20contact%20you%20from%20github" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
   </a>
-  <a href="https://fb.com/sumonta.mridul" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100080634577978" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="30" alt="facebook logo"  />
   </a>
-  <a href="https://instagram.com/_sumonta_saha_" target="_blank">
+  <a href="https://instagram.com/mr_juice7" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/sumonta-saha-mridul-b35bb61a0/" target="_blank">
+  <a href="https://www.linkedin.com/in/mrjuiceofc/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
-  <a href="https://wa.me/+8801845359479" target="_blank">
+  <a href="https://wa.me/+263780699988" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="42" height="30" alt="whatsapp logo"  />
   </a>
-  <a href="https://twitter.com/sumonta_saha" target="_blank">
+  <a href="https://twitter.com/mr_juice7" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  />
   </a>
-  <a href="https://www.youtube.com/@sumontasaha1624" target="_blank">
+  <a href="https://www.youtube.com/@mrjuiceofc" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  />
-  </a>
-  <a href="https://linktr.ee/sumontasaha?fbclid=IwAR1SsBAPd9NHFmr0SLw3B5SPZdlmElavozsaq52LG8DR8PfTfwnx57DEgUw" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="42" height="30" alt="linktree logo"  />
   </a>
 </div>
 
  
 ## <i>🙋‍♂️ Passionate About </i> 
 <p align = 'center'>
-<b>💻Coding - ✈️Travelling - 📸Photography </b>
+<b>💻Coding - 📕 Learning - 👦 Being alone </b>
 </p>
 
 
@@ -131,11 +127,11 @@
 <h2 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h2>
 <p align="center">
 <img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumonta056&theme=gotham&count_private=true" >
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrjuice01&theme=gotham&count_private=true" >
 <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
 </p>
 <!-- <p align="center">
-<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=sumonta056&theme=gotham" width="700" >
+<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=mrjuice01&theme=gotham" width="700" >
 </p> -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -143,7 +139,7 @@
  
 
 <div align="center">
-<h1> 📸 Check Out My Photography's <a href = "https://unsplash.com/@sumonta056" >@unplash</a></h1>
+<h1> 📸 Check Out My Photography's <a href = "https://unsplash.com/@mrjuice01" >@unplash</a></h1>
 </div>
 
 <!-- ![myimge](1.png)
@@ -152,15 +148,15 @@
  
 <p align='center'>
 <!-- <a href="https://twitter.com/sumonta_saha" target="blank"><img src="https://img.shields.io/twitter/follow/sumonta_saha?logo=twitter&style=for-the-badge" alt="sumonta_saha" /></a>  -->
-<a href="https://twitter.com/sumonta_saha" target="blank"><img src="https://i.postimg.cc/zG8t3bpb/button-1.png" /></a> 
-<a href="https://www.instagram.com/_sumonta_saha_/" target="blank"><img src="https://i.postimg.cc/Qd6Y0W2r/button.png"  /></a> 
+<a href="https://twitter.com/mrjuice7" target="blank"><img src="https://i.postimg.cc/zG8t3bpb/button-1.png" /></a> 
+<a href="https://www.instagram.com/mr_juice7/" target="blank"><img src="https://i.postimg.cc/Qd6Y0W2r/button.png"  /></a> 
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br> 
 
 <div align="center">
-<h1>✍🏻 Read My Blogs on <a href = "https://medium.com/@sumontasaha80" >@medium</a></h1>
+<h1>✍🏻 Read My Blog on <a href = "https://mrjuice-ofc.vercel.app/" >@mrjuiceofc</a></h1>
  
 <a href = "https://medium.com/@sumontasaha80" ><img src="https://i.postimg.cc/26PZ6zS0/gg.png"></a>
 </div>
