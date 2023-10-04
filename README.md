@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/100421286/193405245-bba2b291-7283-44dd-988c-2a616a410688.gif"width="800"> </a>
+<img align='center' src= "images/header.gif">
 <div align="center">
 <a href = "https://drive.google.com/file/d/1kLgjjzp-QV0_T0wh7G2JMoD9wPOvtpkG/view?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Mr Juice-blue" width="200" height="35"></a>
 <a href = "https://medium.com/me/stories/public" ><img src="https://img.shields.io/badge/Medium-Check%20My%20Blog-brightgreen" width="230" height="35"></a>
