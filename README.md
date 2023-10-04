@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/100421286/193405245-bba2b291-7283-44dd-988c-2a616a410688.gif"width="800"> </a>
+<img align='center' src= "images/header.png">
 <div align="center">
 <a href = "https://drive.google.com/file/d/1kLgjjzp-QV0_T0wh7G2JMoD9wPOvtpkG/view?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Mr Juice-blue" width="200" height="35"></a>
 <a href = "https://medium.com/me/stories/public" ><img src="https://img.shields.io/badge/Medium-Check%20My%20Blog-brightgreen" width="230" height="35"></a>
@@ -6,13 +6,21 @@
 </div>
 
 
-<h1 align="center">Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, To Mr Juicec Github </h1>
+<h1 align="center">Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, To Mr Juice's Github </h1>
+
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51C1F7&width=470&lines=I'm+Mr+Juice;I'm+a+Software+Engineering+Student;I'm+a+Software+Developer+;I'm+a+Full+Stark+Developer+;I'm+a+Youtuber+;I'm+a+Freelancer+;I'm+a+Blogger)](https://git.io/typing-svg)
+
+<!-- Contact Mr Juice -->
+<b><details><summary>About Me</summary></b>
 
 
-<p align="center" width="150px"> 
- I am currently studying <b>Software Engineering</b> at <b>Tandon University of Science and Technology(TUST)</b> <br>
- Besides, I am a <b>Software Developer💻</b> with a passion for coding and problem solving.<br>
- I also love <b>photography📸</b> as a creative outlet and capturing the world around me
+<p align='left'>
+- 🔭 <b>Software Engineering Undergrad</b> in <b>Shahjalal University of Science and Technology(SUST)</b><br>
+- 🌱 I’m currently exploring and learning different things😁<br>
+- ✨ Also focusing on problem-solving and development <br>
+- 👯 Learning & Contributing to <b>Open Source Project</b> 😃<br>
+- 🥅 <i><b>2023 Goals</b></i>: Get ready for Internship and participate in more competitions❤️ <br>
+- ⚡ Fun fact: Im not funny?😏<br>
 </p>
 
 
@@ -46,17 +54,6 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" height="200">
 </p>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51C1F7&width=470&lines=I'm+Mr+Juice;I'm+a+Software+Engineering+Student;I'm+a+Software+Developer+;I'm+a+Full+Stark+Developer+;I'm+a+Youtuber+;I'm+a+Freelancer+;I'm+a+Blogger)](https://git.io/typing-svg)
-
-<p align='left'>
-- 🔭 <b>Software Engineering Undergrad</b> in <b>Shahjalal University of Science and Technology(SUST)</b><br>
-- 🌱 I’m currently exploring and learning different things😁<br>
-- ✨ Also focusing on problem-solving and development <br>
-- 👯 Learning & Contributing to <b>Open Source Project</b> 😃<br>
-- 🥅 <i><b>2023 Goals</b></i>: Get ready for Internship and participate in more competitions❤️ <br>
-- ⚡ Fun fact: Im not funny?😏<br>
-</p>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i> Skills:      </i>      
 
 <p align = 'right'>
@@ -70,7 +67,8 @@
 - ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp; ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-## <i>💻 Familiar with: </i>
+<!-- Contact Languages -->
+<b><details><summary>Most Used Languages</summary></b> <i>💻 Familiar with: </i>
 
 <p align = 'right'>
 </p>
@@ -168,133 +166,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  />
   </a>
 </div>
-
-
-<!-- contact me -->
-
-
-    <div class="Social box">
-        <div class="wrappeer">
-            <div class="icon facebook" onclick="window.location.href = 'https://www.facebook.com/sumonta.mridul/';">
-                <div class="tooltip">Facebook</div>
-                <span><i class="fab fa-facebook-f"></i> </span>
-            </div>
-            <div class="icon instagram" onclick="window.location.href = 'https://www.instagram.com/_sumonta_saha_/';">
-                <div class="tooltip">Instagram</div>
-                <span><i class="fab fa-instagram"></i> </span>
-            </div>
-            <div class="icon twitter" onclick="window.location.href = 'https://twitter.com/sumonta_saha';">
-                <div class="tooltip">Twitter</div>
-                <span><i class="fab fa-twitter"></i> </span>
-            </div>
-            <div class="icon github" onclick="window.location.href = 'https://github.com/Sumonta056';">
-                <div class="tooltip">GitHub</div>
-                <span><i class="fab fa-github"></i> </span>
-            </div>
-            <div class="icon linkedin"
-                onclick="window.location.href = 'https://www.linkedin.com/in/sumonta-saha-mridul-b35bb61a0/';">
-                <div class="tooltip">Linkedin</div>
-                <span><i class="fab fa-linkedin"></i> </span>
-            </div>
-            <div class="icon youtube" onclick="window.location.href = 'https://youtube.com/@sumontasaha5638';">
-                <div class="tooltip">YouTube</div>
-                <span><i class="fab fa-youtube"></i> </span>
-            </div>
-
-        </div>
-
-
-
-        <div class="cv box">
-            <button class="button"
-                onclick="window.location.href = 'https://drive.google.com/file/d/1kLgjjzp-QV0_T0wh7G2JMoD9wPOvtpkG/view?usp=sharing';">
-                <span class="button_lg">
-                    <span class="button_sl"></span>
-                    <span class="button_text">Download My CV</span>
-                </span>
-            </button>
-        </div>
-    </div>
-
-
-    <div class="follower box">
-        <div class="wrapperpp">
-            <div class="containerpp">
-                <i class="fa-brands fa-instagram"></i>
-                <span class="num" data-val="340">000</span>
-                <span class="text">Instagram Followers</span>
-            </div>
-
-            <div class="containerpp">
-                <i class="fa-brands fa-github"></i>
-                <span class="num" data-val="64">000</span>
-                <span class="text">GitHub Followers</span>
-            </div>
-
-            <div class="containerpp">
-                <i class="fa-brands fa-medium"></i>
-                <span class="num" data-val="33">000</span>
-                <span class="text">Medium Followers</span>
-            </div>
-
-            <div class="containerpp ">
-                <i class="fa-brands fa-linkedin"></i>
-                <span class="num" data-val="648">000</span>
-                <span class="text">Linkedin Followers</span>
-            </div>
-            <div class="containerpp">
-                <i class="fa-brands fa-unsplash"></i>
-                <span class="num" data-val="2000">000</span>
-                <span class="text">Unplash Views</span>
-            </div>
-        </div>
-
-    </div>
-
-
-    <script src="Home/animation.js"></script>
-
-
-
-    <div class="end">
-        <p>© 2023 Sumonta Saha Mridul. All rights reserved.</p>
-    </div>
-<!-- 
-    <script>
-
-        // Select all elements with the "box" class
-        const boxes = document.querySelectorAll('.box');
-
-        // Create a new Intersection Observer
-        const options = {
-            root: null, // use the viewport as the root
-            threshold: 0 // 20% of the element is visible
-        };
-
-        const observer = new IntersectionObserver(entries => {
-            entries.forEach(entry => {
-                if (entry.isIntersecting) {
-                    entry.target.style.opacity = 1;
-
-
-
-
-                } else {
-                    entry.target.style.opacity = 0;
-
-
-                }
-            });
-        }, options);
-
-        // Start observing each target element
-        boxes.forEach(box => observer.observe(box));
-
-
-
-    </script> -->
-
-
-</body>
-
-</html>
