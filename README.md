@@ -134,7 +134,8 @@
 
 <p align = 'right'>
 </p>
-<img src="https://github.com/mrjuice01/mrjuice02/assets/100421286/168ba41c-2004-437b-9b79-89cdcef3850e>
+<img src="https://github.com/mrjuice01/mrjuice02/assets/100421286/168ba41c-2004-437b-9b79-89cdcef3850e"width="800"> </a>
+    </p>
 
 
 - Hello Im Mr Juice. A Software Engineer.
@@ -154,6 +155,9 @@
 
 <p align = 'right'>
 </p>
+<img src="https://github.com/mrjuice01/mrjuice02/assets/100421286/85f59073-2918-4aab-b5e0-e77114558cc3"width="800"> </a>
+    </p>
+
 
 <div align="left">
   <a href="mailto:mrjuice017@gmail.com?subject=Want%20to%20contact%20you%20from%20github" target="_blank">
