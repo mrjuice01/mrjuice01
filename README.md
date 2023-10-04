@@ -1,4 +1,4 @@
-<img align='center' src= "images/header.gif">
+<img src="https://user-images.githubusercontent.com/100421286/193405245-bba2b291-7283-44dd-988c-2a616a410688.gif"width="800"> </a>
 <div align="center">
 <a href = "https://drive.google.com/file/d/1kLgjjzp-QV0_T0wh7G2JMoD9wPOvtpkG/view?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Mr Juice-blue" width="200" height="35"></a>
 <a href = "https://medium.com/me/stories/public" ><img src="https://img.shields.io/badge/Medium-Check%20My%20Blog-brightgreen" width="230" height="35"></a>
@@ -6,7 +6,7 @@
 </div>
 
 
-<h1 align="center">Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, To Mr Juice's Github </h1>
+<h1 align="center">Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, To Mr Juicec Github </h1>
 
 
 <p align="center" width="150px"> 
@@ -170,7 +170,131 @@
 </div>
 
 
-<br>
- 
-<!-- Text Animation -->
-<!-- <img height="120" alt="Wishing you Good Luck 🤞" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> -->
+<!-- contact me -->
+
+
+    <div class="Social box">
+        <div class="wrappeer">
+            <div class="icon facebook" onclick="window.location.href = 'https://www.facebook.com/sumonta.mridul/';">
+                <div class="tooltip">Facebook</div>
+                <span><i class="fab fa-facebook-f"></i> </span>
+            </div>
+            <div class="icon instagram" onclick="window.location.href = 'https://www.instagram.com/_sumonta_saha_/';">
+                <div class="tooltip">Instagram</div>
+                <span><i class="fab fa-instagram"></i> </span>
+            </div>
+            <div class="icon twitter" onclick="window.location.href = 'https://twitter.com/sumonta_saha';">
+                <div class="tooltip">Twitter</div>
+                <span><i class="fab fa-twitter"></i> </span>
+            </div>
+            <div class="icon github" onclick="window.location.href = 'https://github.com/Sumonta056';">
+                <div class="tooltip">GitHub</div>
+                <span><i class="fab fa-github"></i> </span>
+            </div>
+            <div class="icon linkedin"
+                onclick="window.location.href = 'https://www.linkedin.com/in/sumonta-saha-mridul-b35bb61a0/';">
+                <div class="tooltip">Linkedin</div>
+                <span><i class="fab fa-linkedin"></i> </span>
+            </div>
+            <div class="icon youtube" onclick="window.location.href = 'https://youtube.com/@sumontasaha5638';">
+                <div class="tooltip">YouTube</div>
+                <span><i class="fab fa-youtube"></i> </span>
+            </div>
+
+        </div>
+
+
+
+        <div class="cv box">
+            <button class="button"
+                onclick="window.location.href = 'https://drive.google.com/file/d/1kLgjjzp-QV0_T0wh7G2JMoD9wPOvtpkG/view?usp=sharing';">
+                <span class="button_lg">
+                    <span class="button_sl"></span>
+                    <span class="button_text">Download My CV</span>
+                </span>
+            </button>
+        </div>
+    </div>
+
+
+    <div class="follower box">
+        <div class="wrapperpp">
+            <div class="containerpp">
+                <i class="fa-brands fa-instagram"></i>
+                <span class="num" data-val="340">000</span>
+                <span class="text">Instagram Followers</span>
+            </div>
+
+            <div class="containerpp">
+                <i class="fa-brands fa-github"></i>
+                <span class="num" data-val="64">000</span>
+                <span class="text">GitHub Followers</span>
+            </div>
+
+            <div class="containerpp">
+                <i class="fa-brands fa-medium"></i>
+                <span class="num" data-val="33">000</span>
+                <span class="text">Medium Followers</span>
+            </div>
+
+            <div class="containerpp ">
+                <i class="fa-brands fa-linkedin"></i>
+                <span class="num" data-val="648">000</span>
+                <span class="text">Linkedin Followers</span>
+            </div>
+            <div class="containerpp">
+                <i class="fa-brands fa-unsplash"></i>
+                <span class="num" data-val="2000">000</span>
+                <span class="text">Unplash Views</span>
+            </div>
+        </div>
+
+    </div>
+
+
+    <script src="Home/animation.js"></script>
+
+
+
+    <div class="end">
+        <p>© 2023 Sumonta Saha Mridul. All rights reserved.</p>
+    </div>
+<!-- 
+    <script>
+
+        // Select all elements with the "box" class
+        const boxes = document.querySelectorAll('.box');
+
+        // Create a new Intersection Observer
+        const options = {
+            root: null, // use the viewport as the root
+            threshold: 0 // 20% of the element is visible
+        };
+
+        const observer = new IntersectionObserver(entries => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.style.opacity = 1;
+
+
+
+
+                } else {
+                    entry.target.style.opacity = 0;
+
+
+                }
+            });
+        }, options);
+
+        // Start observing each target element
+        boxes.forEach(box => observer.observe(box));
+
+
+
+    </script> -->
+
+
+</body>
+
+</html>
