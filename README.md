@@ -26,6 +26,9 @@
 
 </details>
 
+![iphone-app](https://github.com/mrjuice01/mrjuice02/assets/100421286/30463587-973f-464d-9a30-b71a233c8bc0)
+
+
 <b><details><summary>My Skills</summary>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i> Skills:      </i>      
