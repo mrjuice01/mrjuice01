@@ -7,6 +7,19 @@
 
 ![About](https://github.com/mrjuice01/mrjuice02/assets/100421286/6ce40b80-2d1b-4fbc-9ccf-e91fe96ca7ef)
 
+
+## Software Developer
+
+## App Developer
+
+## Web Developer
+
+## Full Stark Developer
+
+## Front End Developer
+
+## Back End Developer
+
 </details>
 
 <b><details><summary>Mostly Used Languages</summary>
