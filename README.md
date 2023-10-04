@@ -14,7 +14,7 @@
 - My Top Notch Software Is 𝗘𝗰𝗼𝗺𝗺𝗲𝗰𝗲 𝗔𝗽𝗽
 - A mobile app to place & recive orders online
 - 𝗠𝗼𝘀𝘁𝗹𝘆 𝗨𝘀𝗲𝗱 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
-- ![Python](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![React](https://img.shields.io/badge/react-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- ![Python](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![REACT](https://img.shields.io/badge/react-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 # 𝐀𝐏𝐏 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑
 ![Mobileapp](https://github.com/mrjuice01/mrjuice02/assets/100421286/97061144-f6fd-4eca-b434-3d761ef54ed3)
@@ -24,7 +24,7 @@
 - My Most Porpular App Is 𝗠𝗝 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽
 - A Well secure & Fantastic Comunication App
 - 𝗠𝗼𝘀𝘁𝗹𝘆 𝗨𝘀𝗲𝗱 𝗟𝗮𝗻𝗴𝘂𝗴𝗲𝘀
-- ![Xml](https://img.shields.io/badge/xml-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![React](https://img.shields.io/badge/react-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- ![Xml](https://img.shields.io/badge/xml-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![SQLite](https://img.shields.io/badge/sqlite-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 # 𝐖𝐄𝐁 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑
 ![professional web dev](https://github.com/mrjuice01/mrjuice02/assets/100421286/4027eb12-f662-43b2-a052-6315aeb4331d)
@@ -34,7 +34,7 @@
 - Check out my website 𝗺𝗿𝗷𝘂𝗶𝗰𝗲𝗼𝗳𝗰
 - Here You can Get more of my apps & projects
 - 𝗠𝗼𝘀𝘁𝗹𝘆 𝗨𝘀𝗲𝗱 𝗟𝗮𝗻𝗴𝘂𝗲𝗴𝗲𝘀
-- ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![React](https://img.shields.io/badge/react-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 # 𝐅𝐔𝐋𝐋 𝐒𝐓𝐀𝐑𝐊 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑
 ![projects](https://github.com/mrjuice01/mrjuice02/assets/100421286/d304bf38-ee82-4291-9cb7-1a9acb33506a)
@@ -44,7 +44,7 @@
 - My Top Notch Software Is 𝗖𝗵𝗮𝘁 𝗔𝗽𝗽
 - A Web App like whatsapl but Works Online
 - 𝗠𝗼𝘀𝘁𝗹𝘆 𝗨𝘀𝗲𝗱 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
-- ![Python](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![React](https://img.shields.io/badge/react-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- ![MySQL](https://img.shields.io/badge/mysql-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![SQLite](https://img.shields.io/badge/sqlite-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 # 𝐅𝐑𝐎𝐍𝐓 𝐄𝐍𝐃 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑
 ![frontend](https://github.com/mrjuice01/mrjuice02/assets/100421286/ff162672-9730-4a61-bf10-46c998cd0a9e)
@@ -54,7 +54,7 @@
 - My Front End project Is 𝗺𝗿𝗷𝘂𝗶𝗰𝗲𝗼𝗳𝗰
 - My Personal Portifolio
 - 𝗠𝗼𝘀𝘁𝗹𝘆 𝗨𝘀𝗲𝗱 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
-- ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![React](https://img.shields.io/badge/react-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 # 𝐁𝐀𝐂𝐊 𝐄𝐍𝐃 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑
 ![back end](https://github.com/mrjuice01/mrjuice02/assets/100421286/d6b309e9-7c6e-4c31-9edc-56531758c2d4)
@@ -64,7 +64,7 @@
 - My Top Notch Project Is 𝗪𝗲𝗮𝘁𝗵𝗲𝗿 𝗔𝗽𝗽
 - A App that Can tell the current weather of any city
 - 𝗠𝗼𝘀𝘁𝗹𝘆 𝗨𝘀𝗲𝗱 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
-- ![Python](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![React](https://img.shields.io/badge/react-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- ![MySQL](https://img.shields.io/badge/mysql-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![CSS](https://img.shields.io/badge/scc-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![SQLite](https://img.shields.io/badge/sqlite-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
 </details>
