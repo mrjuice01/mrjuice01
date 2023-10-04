@@ -52,7 +52,8 @@
 - ![Xml](https://img.shields.io/badge/xml-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![SQLite](https://img.shields.io/badge/sqlite-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 # 𝐖𝐄𝐁 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑
-![professional web dev](https://github.com/mrjuice01/mrjuice01/assets/100421286/4027eb12-f662-43b2-a052-6315aeb4331d)
+![professional web dev](https://github.com/mrjuice01/mrjuice01/assets/100421286/41cf3b10-a1ea-4316-97c2-c23d76318e34)
+
 
 - Im A Hard Working Web Developer
 - I'm intesested in Customising & Editing Website
@@ -62,7 +63,8 @@
 - ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 # 𝐅𝐔𝐋𝐋 𝐒𝐓𝐀𝐑𝐊 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑
-![projects](https://github.com/mrjuice01/mrjuice01/assets/100421286/7a45c7eb-4a36-4eca-b6d4-6f0e0e10e976)
+![projects](https://github.com/mrjuice01/mrjuice01/assets/100421286/6195d5c7-2de5-48ad-83d4-c53564d891ca)
+
 
 
 - Im A Passionate Full Stark Developer.
@@ -73,6 +75,7 @@
 - ![MySQL](https://img.shields.io/badge/mysql-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![SQLite](https://img.shields.io/badge/sqlite-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 # 𝐅𝐑𝐎𝐍𝐓 𝐄𝐍𝐃 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑
+![frontend](https://github.com/mrjuice01/mrjuice01/assets/100421286/8ff9022d-b4b2-4141-bfb7-92864ce9398c)
 
 
 - Im A Talented Front End Developer.
