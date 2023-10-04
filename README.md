@@ -88,12 +88,10 @@
 
 </details>
 
-<b><details><summary>About Me</summary>
+<b><details><summary>Contact</summary>
 
 <p align = 'right'>
 </p>
-
-## <i>📞 Connect with Mr Juice 
 
 <div align="left">
   <a href="mailto:mrjuice017@gmail.com?subject=Want%20to%20contact%20you%20from%20github" target="_blank">
