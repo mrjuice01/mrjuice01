@@ -3,31 +3,64 @@
 
 <h1 align="center">Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, To Mr Juice's Github </h1>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51C1F7&width=470&lines=I'm+Mr+Juice;I'm+a+Software+Engineering+Student;I'm+a+Software+Developer+;I'm+a+Full+Stark+Developer+;I'm+a+Youtuber+;I'm+a+Freelancer+;I'm+a+Blogger)](https://git.io/typing-svg)
-
-![About](https://github.com/mrjuice01/mrjuice02/assets/100421286/6ce40b80-2d1b-4fbc-9ccf-e91fe96ca7ef)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4B0082&width=470&lines=𝐈'𝐌+𝐌𝐑+𝐉𝐔𝐈𝐂𝐄;𝐈'𝐌+𝐀+𝐒𝐎𝐅𝐓𝐖𝐀𝐑𝐄+𝐄𝐍𝐆𝐈𝐍𝐄𝐄𝐑𝐈𝐍𝐆+𝐒𝐓𝐔𝐃𝐄𝐍𝐓;𝐈'𝐌+𝐀+𝐒𝐎𝐅𝐓𝐖𝐀𝐑𝐄+𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐑𝐑+;𝐈'𝐌+𝐀+𝐅𝐔𝐋𝐋+𝐒𝐓𝐀𝐑𝐊+𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑+;𝐈'𝐌+𝐀+𝐘𝐎𝐔𝐓𝐔𝐁𝐄𝐑+;𝐈'𝐌+𝐀+𝐅𝐑𝐄𝐄𝐋𝐀𝐍𝐂𝐄𝐑+;𝐈'𝐌+𝐀+𝐁𝐋𝐎𝐆𝐆𝐄𝐑)](https://git.io/typing-svg)
 
 
-## Software Developer
+# 𝐒𝐎𝐅𝐓𝐖𝐀𝐑𝐄 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑
+![Software](https://github.com/mrjuice01/mrjuice02/assets/100421286/d19668d7-3ae4-48b8-9051-76b75dbb87a8)
 
-## App Developer
+- Im A Passionate Software Developer.
+- I'm intesested in Searching for New Things
+- I Usually Use ![Python](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![React](https://img.shields.io/badge/react-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- My Top Notch Software Is 𝗘𝗰𝗼𝗺𝗺𝗲𝗰𝗲 𝗔𝗽𝗽
+- A mobile app to place & recive orders online
+
+# 𝐀𝐏𝐏 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑
+![Mobileapp](https://github.com/mrjuice01/mrjuice02/assets/100421286/97061144-f6fd-4eca-b434-3d761ef54ed3)
+
+- Im A Hard working App Developer.
+- I'm intesested in Building Mobile Apps & Games for New Things
+- I Usually Use ![Xml](https://img.shields.io/badge/xml-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![React](https://img.shields.io/badge/react-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- My Most Porpular App Is 𝗠𝗝 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽
+- A Well secure & Fantastic Comunication App
 
 
-## Web Developer
+# 𝐖𝐄𝐁 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑
 ![professional web dev](https://github.com/mrjuice01/mrjuice02/assets/100421286/4027eb12-f662-43b2-a052-6315aeb4331d)
 
+- Im A Hard Working Web Developer
+- I'm intesested in Customising & Editing Website
+- I Usually Use ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![React](https://img.shields.io/badge/react-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- Check out my website 𝗺𝗿𝗷𝘂𝗶𝗰𝗲𝗼𝗳𝗰
+- Here You can Get more of my apps & projects
 
-## Full Stark Developer
+# 𝐅𝐔𝐋𝐋 𝐒𝐓𝐀𝐑𝐊 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑
 ![projects](https://github.com/mrjuice01/mrjuice02/assets/100421286/d304bf38-ee82-4291-9cb7-1a9acb33506a)
 
+- Im A Passionate Full Stark Developer.
+- I'm still Searching for New Things & learning
+- I Usually Use ![Python](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![React](https://img.shields.io/badge/react-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- My Top Notch Software Is 𝗖𝗵𝗮𝘁 𝗔𝗽𝗽
+- A Web App like whatsapl but Works Online
 
 
-## Front End Developer
+# 𝐅𝐑𝐎𝐍𝐓 𝐄𝐍𝐃 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑
 ![frontend](https://github.com/mrjuice01/mrjuice02/assets/100421286/ff162672-9730-4a61-bf10-46c998cd0a9e)
 
+- Im A Talented Front End Developer.
+- I'm intesested in building small learning websites
+- I Usually Use ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![React](https://img.shields.io/badge/react-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- My Front End project Is 𝗺𝗿𝗷𝘂𝗶𝗰𝗲𝗼𝗳𝗰
+- My Personal Portifolio
 
-## Back End Developer
+# 𝐁𝐀𝐂𝐊 𝐄𝐍𝐃 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑
 ![back end](https://github.com/mrjuice01/mrjuice02/assets/100421286/d6b309e9-7c6e-4c31-9edc-56531758c2d4)
+
+- Im A Passionate Back End Developer.
+- I'm intesested in building rest apis & sites
+- I Usually Use ![Python](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![React](https://img.shields.io/badge/react-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- My Top Notch Project Is 𝗪𝗲𝗮𝘁𝗵𝗲𝗿 𝗔𝗽𝗽
+- A App that Can tell the current weather of any city
 
 
 </details>
