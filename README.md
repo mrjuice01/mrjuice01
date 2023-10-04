@@ -40,7 +40,8 @@
 - ![Python](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![REACT](https://img.shields.io/badge/react-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 # 𝐀𝐏𝐏 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑
-![Mobileapp](https://github.com/mrjuice01/mrjuice01/assets/100421286/de557936-66f8-41a4-a544-f00cacb5ff33)
+![Mobileapp](https://github.com/mrjuice01/mrjuice01/assets/100421286/9023ed81-ea61-44de-ad6d-ef11fee291dd)
+
 
 
 - Im A Hard working App Developer.
