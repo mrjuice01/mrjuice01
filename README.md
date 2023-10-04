@@ -1,4 +1,4 @@
-![main](https://github.com/mrjuice01/mrjuice01/assets/100421286/116b53a9-134f-4c80-9e1c-83d62358a48f)
+![main](https://github.com/mrjuice01/mrjuice01/assets/100421286/ea5c1a14-d4e4-4da6-8c94-3f98d54dc0c8)
 <div align="center">
 
 <h1 align="center">Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, To My Github </h1>
@@ -11,7 +11,7 @@
 
 <p align = 'right'>
 </p>
-<img src="https://github.com/mrjuice01/mrjuice01/assets/100421286/168ba41c-2004-437b-9b79-89cdcef3850e"width="800"> </a>
+<img src="https://github.com/mrjuice01/mrjuice01/assets/100421286/0cb5c1cb-b544-4287-962b-cf5ebab61d3d"width="800"> </a>
     </p>
 
 
@@ -29,7 +29,8 @@
 
 
 # 𝐒𝐎𝐅𝐓𝐖𝐀𝐑𝐄 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑
-![Software](https://github.com/mrjuice01/mrjuice01/assets/100421286/d19668d7-3ae4-48b8-9051-76b75dbb87a8)
+![Software](https://github.com/mrjuice01/mrjuice01/assets/100421286/4e649b6c-4c4a-420f-931e-8e7ae94b2106)
+
 
 - Im A Passionate Software Developer.
 - I'm intesested in Searching for New Things
@@ -39,7 +40,8 @@
 - ![Python](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![REACT](https://img.shields.io/badge/react-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 # 𝐀𝐏𝐏 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑
-![Mobileapp](https://github.com/mrjuice01/mrjuice01/assets/100421286/97061144-f6fd-4eca-b434-3d761ef54ed3)
+![Mobileapp](https://github.com/mrjuice01/mrjuice01/assets/100421286/de557936-66f8-41a4-a544-f00cacb5ff33)
+
 
 - Im A Hard working App Developer.
 - I'm intesested in Building Mobile Apps & Games for New Things
@@ -59,7 +61,8 @@
 - ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 # 𝐅𝐔𝐋𝐋 𝐒𝐓𝐀𝐑𝐊 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑
-![projects](https://github.com/mrjuice01/mrjuice01/assets/100421286/d304bf38-ee82-4291-9cb7-1a9acb33506a)
+![projects](https://github.com/mrjuice01/mrjuice01/assets/100421286/7a45c7eb-4a36-4eca-b6d4-6f0e0e10e976)
+
 
 - Im A Passionate Full Stark Developer.
 - I'm still Searching for New Things & learning
@@ -69,7 +72,7 @@
 - ![MySQL](https://img.shields.io/badge/mysql-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![SQLite](https://img.shields.io/badge/sqlite-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 # 𝐅𝐑𝐎𝐍𝐓 𝐄𝐍𝐃 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑
-![frontend](https://github.com/mrjuice01/mrjuice01/assets/100421286/ff162672-9730-4a61-bf10-46c998cd0a9e)
+
 
 - Im A Talented Front End Developer.
 - I'm intesested in building small learning websites
