@@ -131,7 +131,7 @@
 <div align="center">
 <h1>✍🏻 Read My Blog on <a href = "https://mrjuice-ofc.vercel.app/" >@mrjuiceofc</a></h1>
  
-<a href = "https://medium.com/@sumontasaha80" ><img src="https://i.postimg.cc/26PZ6zS0/gg.png"></a>
+<a href = "https://mrjuice-ofc.vercel.app/" ><img src="https://i.postimg.cc/26PZ6zS0/gg.png"></a>
 </div>
  
 <hr>
@@ -140,7 +140,6 @@
 
 <h2 align="center"><b><i>✍️ Random Dev Quote</i></b> </h2>
 <p align = 'center'>
-<img align='center' src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" width="400px">
 </p>
 <p align="center">
 <img align = "center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
