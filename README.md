@@ -1,12 +1,12 @@
-<img align='center' src= "images/header.gif">
+<img src="https://user-images.githubusercontent.com/100421286/193405245-bba2b291-7283-44dd-988c-2a616a410688.gif"width="800"> </a>
 <div align="center">
-<a href = "https://drive.google.com/file/d/1kLgjjzp-QV0_T0wh7G2JMoD9wPOvtpkG/view?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Sumonta-blue" width="200" height="35"></a>
+<a href = "https://drive.google.com/file/d/1kLgjjzp-QV0_T0wh7G2JMoD9wPOvtpkG/view?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Mr Juice-blue" width="200" height="35"></a>
 <a href = "https://medium.com/me/stories/public" ><img src="https://img.shields.io/badge/Medium-Check%20My%20Blog-brightgreen" width="230" height="35"></a>
 <a href = "https://mr-juice.vercel.app/" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="220"height="35"></a>
 </div>
 
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, I am Mr Juice </h1>
+<h1 align="center">Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, To Mr Juicec Github </h1>
 
 
 <p align="center" width="150px"> 
@@ -16,13 +16,6 @@
 </p>
 
 
-
-
-
-<p align='center'>
-<img src="https://komarev.com/ghpvc/?username=mrjuice01&label=Profile%20views&color=0e75b6&style=flat" alt="mrjuice01" /> <br>
-<a herf = "https://wakatime.com/@mrjuice01"> <img src="https://wakatime.com/badge/user/956d8c63-e07e-46bf-b197-9bbb31d68aa9.svg" alt="https://wakatime.com/@mrjuice01" /> </a> 
-</p>
  
 
 
@@ -90,32 +83,6 @@
 - ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)&nbsp; ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp; ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 - ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-## <i>📞 Connect with me 
-
-<div align="left">
-  <a href="mailto:mrjuice017@gmail.com?subject=Want%20to%20contact%20you%20from%20github" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100080634577978" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="30" alt="facebook logo"  />
-  </a>
-  <a href="https://instagram.com/mr_juice7" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/mrjuiceofc/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/+263780699988" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="42" height="30" alt="whatsapp logo"  />
-  </a>
-  <a href="https://twitter.com/mr_juice7" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  />
-  </a>
-  <a href="https://www.youtube.com/@mrjuiceofc" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  />
-  </a>
-</div>
-
  
 ## <i>🙋‍♂️ Passionate About </i> 
 <p align = 'center'>
@@ -147,8 +114,8 @@
 ![e](images/Photography/3.gif)
  
 <p align='center'>
-<!-- <a href="https://twitter.com/sumonta_saha" target="blank"><img src="https://img.shields.io/twitter/follow/sumonta_saha?logo=twitter&style=for-the-badge" alt="sumonta_saha" /></a>  -->
-<a href="https://twitter.com/mrjuice7" target="blank"><img src="https://i.postimg.cc/zG8t3bpb/button-1.png" /></a> 
+<!-- <a href="https://twitter.com/mr_juice7" target="blank"><img src="https://img.shields.io/twitter/follow/Mr.Juice?logo=twitter&style=for-the-badge" alt="Mr.Juice" /></a>  -->
+<a href="https://twitter.com/mr_juice7" target="blank"><img src="https://i.postimg.cc/zG8t3bpb/button-1.png" /></a> 
 <a href="https://www.instagram.com/mr_juice7/" target="blank"><img src="https://i.postimg.cc/Qd6Y0W2r/button.png"  /></a> 
 </p>
 
@@ -163,7 +130,6 @@
  
 <hr>
 <p align='center'>
-<img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif"  > 
 </p>
 
 <h2 align="center"><b><i>✍️ Random Dev Quote</i></b> </h2>
@@ -173,6 +139,35 @@
 <p align="center">
 <img align = "center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </p>
+
+<!-- Contact Mr Juice -->
+<b><details><summary>Click to Chat Me</summary></b>
+
+## <i>📞 Connect with Mr Juice 
+
+<div align="left">
+  <a href="mailto:mrjuice017@gmail.com?subject=Want%20to%20contact%20you%20from%20github" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100080634577978" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="30" alt="facebook logo"  />
+  </a>
+  <a href="https://instagram.com/mr_juice7" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/mrjuiceofc/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/+263780699988" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="42" height="30" alt="whatsapp logo"  />
+  </a>
+  <a href="https://twitter.com/mr_juice7" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  />
+  </a>
+  <a href="https://www.youtube.com/@mrjuiceofc" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  />
+  </a>
+</div>
 
 
 <br>
