@@ -85,3 +85,39 @@
 
 </b>
 </details>
+
+</details>
+
+<b><details><summary>About Me</summary>
+
+<p align = 'right'>
+</p>
+
+## <i>📞 Connect with Mr Juice 
+
+<div align="left">
+  <a href="mailto:mrjuice017@gmail.com?subject=Want%20to%20contact%20you%20from%20github" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100080634577978" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="30" alt="facebook logo"  />
+  </a>
+  <a href="https://instagram.com/mr_juice7" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/mrjuiceofc/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/+263780699988" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="42" height="30" alt="whatsapp logo"  />
+  </a>
+  <a href="https://twitter.com/mr_juice7" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  />
+  </a>
+  <a href="https://www.youtube.com/@mrjuiceofc" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  />
+  </a>
+</div>
+
+</b>
+</details>
