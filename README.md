@@ -6,7 +6,7 @@
 </div>
 
 
-<h1 align="center">Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, To Mr Juicec Github </h1>
+<h1 align="center">Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, To Mr Juice's Github </h1>
 
 
 <p align="center" width="150px"> 
