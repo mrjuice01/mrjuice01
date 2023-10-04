@@ -5,6 +5,9 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51C1F7&width=470&lines=I'm+Mr+Juice;I'm+a+Software+Engineering+Student;I'm+a+Software+Developer+;I'm+a+Full+Stark+Developer+;I'm+a+Youtuber+;I'm+a+Freelancer+;I'm+a+Blogger)](https://git.io/typing-svg)
 
+![About](https://github.com/mrjuice01/mrjuice02/assets/100421286/6ce40b80-2d1b-4fbc-9ccf-e91fe96ca7ef)
+
+
 <!-- Contact Mr Juice -->
 <b><details><summary>About Me</summary></b>
 
