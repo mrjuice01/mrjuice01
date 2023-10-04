@@ -164,9 +164,8 @@
 
 <p align = 'right'>
 </p>
-![contact](https://github.com/mrjuice01/mrjuice01/assets/100421286/9e084670-c593-4923-95cf-2c498487373f)
-
-
+<img src="https://github.com/mrjuice01/mrjuice01/assets/100421286/9e084670-c593-4923-95cf-2c498487373f"width="800"> </a>
+    </p>
 
 <div align="left">
   <a href="mailto:mrjuice017@gmail.com?subject=Want%20to%20contact%20you%20from%20github" target="_blank">
