@@ -103,7 +103,6 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i> Skills:      </i>      
 
 <p align = 'right'>
-<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400px">
 </p>
 
 - ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -128,44 +127,6 @@
 - ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 </b>
 </details>
- 
-## <i>🙋‍♂️ Passionate About </i> 
-<p align = 'center'>
-<b>💻Coding - 📕 Learning - 👦 Being alone </b>
-</p>
-
-
-<hr>
-<h2 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h2>
-<p align="center">
-<img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrjuice01&theme=gotham&count_private=true" >
-<img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
-</p>
-<!-- <p align="center">
-<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=mrjuice01&theme=gotham" width="700" >
-</p> -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br> 
- 
-
-<div align="center">
-<h1> 📸 Check Out My Photography's <a href = "https://unsplash.com/@mrjuice01" >@unplash</a></h1>
-</div>
-
-<!-- ![myimge](1.png)
-![myimge](2.png) -->
-![e](images/Photography/3gif)
- 
-<p align='center'>
-<!-- <a href="https://twitter.com/mr_juice7" target="blank"><img src="https://img.shields.io/twitter/follow/Mr.Juice?logo=twitter&style=for-the-badge" alt="Mr.Juice" /></a>  -->
-<a href="https://twitter.com/mr_juice7" target="blank"><img src="https://i.postimg.cc/zG8t3bpb/button-1.png" /></a> 
-<a href="https://www.instagram.com/mr_juice7/" target="blank"><img src="https://i.postimg.cc/Qd6Y0W2r/button.png"  /></a> 
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br> 
 
 <div align="center">
 <h1>✍🏻 Read My Blog on <a href = "https://mrjuice-ofc.vercel.app/" >@mrjuiceofc</a></h1>
@@ -184,7 +145,3 @@
 <p align="center">
 <img align = "center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </p>
-
-<!-- Contact Mr Juice -->
-<b><details><summary>Click to Chat Me</summary></b>
-
