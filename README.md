@@ -5,6 +5,8 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4B0082&width=470&lines=𝐈'𝐌+𝐌𝐑+𝐉𝐔𝐈𝐂𝐄;𝐈'𝐌+𝐀+𝐒𝐎𝐅𝐓𝐖𝐀𝐑𝐄+𝐄𝐍𝐆𝐈𝐍𝐄𝐄𝐑𝐈𝐍𝐆+𝐒𝐓𝐔𝐃𝐄𝐍𝐓;𝐈'𝐌+𝐀+𝐒𝐎𝐅𝐓𝐖𝐀𝐑𝐄+𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐑𝐑+;𝐈'𝐌+𝐀+𝐅𝐔𝐋𝐋+𝐒𝐓𝐀𝐑𝐊+𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑+;𝐈'𝐌+𝐀+𝐘𝐎𝐔𝐓𝐔𝐁𝐄𝐑+;𝐈'𝐌+𝐀+𝐅𝐑𝐄𝐄𝐋𝐀𝐍𝐂𝐄𝐑+;𝐈'𝐌+𝐀+𝐁𝐋𝐎𝐆𝐆𝐄𝐑)](https://git.io/typing-svg)
 
+![](https://komarev.com/ghpvc/?username=mrjuice01&style=flat-square)
+
 </details>
 
 <b><details><summary>About Me</summary>
