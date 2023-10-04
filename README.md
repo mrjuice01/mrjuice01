@@ -19,24 +19,79 @@
 </b>
 </details>
 
+</details>
 
- 
+<b><details><summary>My Skills</summary>
 
+> [VIDEO](https://drive.google.com/file/d/1798s8erVW31EcmK3Opq-QuV7GG4byyoH/view)
 
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=moltack&hide_border=false&username=mrjuice01"  width="450" height="180" alt="languages graph"  />
-</p>
+</b>
+</details>
 
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=mrjuice01&theme=moltack&show_icons=true"  width="45%" alt="stats graph"  />
-</p>
- 
+</details>
+
+<b><details><summary>My Projects</summary>
+
+> [VIDEO](https://drive.google.com/file/d/1798s8erVW31EcmK3Opq-QuV7GG4byyoH/view)
+
+</b>
+</details>
+
+</details>
+
+<b><details><summary>Github Starts</summary>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrjuice01)](https://github.com/mrjuice01)
+
+<br>
+
+![Github Badges](https://github-readme-stats.vercel.app/api?username=mrjuice01&show_icons=true&theme=vision-friendly-dark)
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrjuice01&layout=compact)](https://github.com/mrjuice01/github-readme-stats)<br>
+![My Profile Views](https://gpvc.arturio.dev/mrjuice01)
+<br>
+<br>
+<br>
+
 <p align="center">
-<img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrjuice01&theme=moltack"  />
-    
- <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrjuice01&theme=moltack"  />
-</p>
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
+</b>
+</details>
 
+</details>
+
+<b><details><summary>Contact Me</summary>
+
+## <i>📞 Connect with Mr Juice 
+
+<div align="left">
+  <a href="mailto:mrjuice017@gmail.com?subject=Want%20to%20contact%20you%20from%20github" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100080634577978" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="30" alt="facebook logo"  />
+  </a>
+  <a href="https://instagram.com/mr_juice7" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/mrjuiceofc/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/+263780699988" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="42" height="30" alt="whatsapp logo"  />
+  </a>
+  <a href="https://twitter.com/mr_juice7" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  />
+  </a>
+  <a href="https://www.youtube.com/@mrjuiceofc" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  />
+  </a>
+</div>
+
+</b>
+</details>
+ 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
@@ -101,7 +156,7 @@
 
 <!-- ![myimge](1.png)
 ![myimge](2.png) -->
-![e](images/Photography/3.gif)
+![e](images/Photography/3gif)
  
 <p align='center'>
 <!-- <a href="https://twitter.com/mr_juice7" target="blank"><img src="https://img.shields.io/twitter/follow/Mr.Juice?logo=twitter&style=for-the-badge" alt="Mr.Juice" /></a>  -->
@@ -133,28 +188,3 @@
 <!-- Contact Mr Juice -->
 <b><details><summary>Click to Chat Me</summary></b>
 
-## <i>📞 Connect with Mr Juice 
-
-<div align="left">
-  <a href="mailto:mrjuice017@gmail.com?subject=Want%20to%20contact%20you%20from%20github" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100080634577978" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="30" alt="facebook logo"  />
-  </a>
-  <a href="https://instagram.com/mr_juice7" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/mrjuiceofc/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/+263780699988" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="42" height="30" alt="whatsapp logo"  />
-  </a>
-  <a href="https://twitter.com/mr_juice7" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  />
-  </a>
-  <a href="https://www.youtube.com/@mrjuiceofc" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  />
-  </a>
-</div>
