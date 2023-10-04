@@ -96,13 +96,7 @@
 - 𝗠𝗼𝘀𝘁𝗹𝘆 𝗨𝘀𝗲𝗱 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
 - ![MySQL](https://img.shields.io/badge/mysql-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![CSS](https://img.shields.io/badge/scc-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![SQLite](https://img.shields.io/badge/sqlite-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-
-</details>
-
-<b><details><summary>Mostly Used Languages</summary>
-
-<p align = 'right'>
-</p>
+## 𝐌𝐎𝐒𝐓𝐋𝐘 𝐔𝐒𝐄𝐃 𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄𝐒
 
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 - ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
@@ -113,10 +107,7 @@
 - ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 </b>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i> Skills:      </i>      
-
-<p align = 'right'>
-</p>
+## 𝐒𝐊𝐈𝐋𝐋𝐒
 
 - ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp; ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -126,9 +117,12 @@
     </p>
 <br>
 
-# My Github Status:
+</details>
 
-<br>
+<b><details><summary>Github Status</summary>
+
+<p align = 'right'>
+</p>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mrjuice01)](https://github.com/mrjuice01)
@@ -142,20 +136,6 @@
 ![My Profile Views](https://gpvc.arturio.dev/mrjuice01)
 <br>
 <br>
-<br>
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
-</p>
-
-
-<h2 align="center"> I will keep running and improving my progress day by day...
-</h2>
-
-<p align="center">
-   <a href="https://github.com/mrjuice01">
-    <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dino_rounded.gif" width="800"> </a>
-    </p>
 <br>
 
 </details>
