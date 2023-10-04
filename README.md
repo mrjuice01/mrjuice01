@@ -86,7 +86,8 @@
 - ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 # 𝐁𝐀𝐂𝐊 𝐄𝐍𝐃 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑
-![back end](https://github.com/mrjuice01/mrjuice01/assets/100421286/d6b309e9-7c6e-4c31-9edc-56531758c2d4)
+![back end](https://github.com/mrjuice01/mrjuice01/assets/100421286/42de8e15-a3f8-40fc-9da4-dc3b556c3eeb)
+
 
 - Im A Passionate Back End Developer.
 - I'm intesested in building rest apis & sites
@@ -163,8 +164,8 @@
 
 <p align = 'right'>
 </p>
-<img src="https://github.com/mrjuice01/mrjuice01/assets/100421286/85f59073-2918-4aab-b5e0-e77114558cc3"width="800"> </a>
-    </p>
+![contact](https://github.com/mrjuice01/mrjuice01/assets/100421286/9e084670-c593-4923-95cf-2c498487373f)
+
 
 
 <div align="left">
