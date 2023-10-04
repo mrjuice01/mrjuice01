@@ -1,4 +1,4 @@
-<img align='center' src= "images/header.png">
+<img align='center' src= "images/header.gif">
 <div align="center">
 <a href = "https://drive.google.com/file/d/1kLgjjzp-QV0_T0wh7G2JMoD9wPOvtpkG/view?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Mr Juice-blue" width="200" height="35"></a>
 <a href = "https://medium.com/me/stories/public" ><img src="https://img.shields.io/badge/Medium-Check%20My%20Blog-brightgreen" width="230" height="35"></a>
@@ -20,8 +20,9 @@
 - ✨ Also focusing on problem-solving and development <br>
 - 👯 Learning & Contributing to <b>Open Source Project</b> 😃<br>
 - 🥅 <i><b>2023 Goals</b></i>: Get ready for Internship and participate in more competitions❤️ <br>
-- ⚡ Fun fact: Im not funny?😏<br>
-</p>
+- ⚡ Fun fact: Im not funny?😏
+</b>
+</details>
 
 
  
@@ -80,7 +81,8 @@
 - ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)&nbsp; ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 - ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)&nbsp; ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp; ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 - ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-
+</b>
+</details>
  
 ## <i>🙋‍♂️ Passionate About </i> 
 <p align = 'center'>
