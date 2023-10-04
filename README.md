@@ -1,10 +1,5 @@
-<img align='center' src= "images/header.gif">
+![main](https://github.com/mrjuice01/mrjuice02/assets/100421286/116b53a9-134f-4c80-9e1c-83d62358a48f)
 <div align="center">
-<a href = "https://drive.google.com/file/d/1kLgjjzp-QV0_T0wh7G2JMoD9wPOvtpkG/view?usp=sharing" ><img src="https://img.shields.io/badge/My%20CV-%40Mr Juice-blue" width="200" height="35"></a>
-<a href = "https://medium.com/me/stories/public" ><img src="https://img.shields.io/badge/Medium-Check%20My%20Blog-brightgreen" width="230" height="35"></a>
-<a href = "https://mr-juice.vercel.app/" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-red" width="220"height="35"></a>
-</div>
-
 
 <h1 align="center">Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, To Mr Juice's Github </h1>
 
@@ -34,11 +29,6 @@
 
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=mrjuice01&theme=moltack&show_icons=true"  width="45%" alt="stats graph"  />
-</p>
- 
-<p align="center">
-<a herf = "https://wakatime.com/@mrjuice01">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mrjuice01&theme=moltack&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" /></a>
 </p>
  
 <p align="center">
