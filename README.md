@@ -1,9 +1,31 @@
 ![main](https://github.com/mrjuice01/mrjuice02/assets/100421286/116b53a9-134f-4c80-9e1c-83d62358a48f)
 <div align="center">
 
-<h1 align="center">Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, To Mr Juice's Github </h1>
+<h1 align="center">Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, To My Github </h1>
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4B0082&width=470&lines=𝐈'𝐌+𝐌𝐑+𝐉𝐔𝐈𝐂𝐄;𝐈'𝐌+𝐀+𝐒𝐎𝐅𝐓𝐖𝐀𝐑𝐄+𝐄𝐍𝐆𝐈𝐍𝐄𝐄𝐑𝐈𝐍𝐆+𝐒𝐓𝐔𝐃𝐄𝐍𝐓;𝐈'𝐌+𝐀+𝐒𝐎𝐅𝐓𝐖𝐀𝐑𝐄+𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐑𝐑+;𝐈'𝐌+𝐀+𝐅𝐔𝐋𝐋+𝐒𝐓𝐀𝐑𝐊+𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑+;𝐈'𝐌+𝐀+𝐘𝐎𝐔𝐓𝐔𝐁𝐄𝐑+;𝐈'𝐌+𝐀+𝐅𝐑𝐄𝐄𝐋𝐀𝐍𝐂𝐄𝐑+;𝐈'𝐌+𝐀+𝐁𝐋𝐎𝐆𝐆𝐄𝐑)](https://git.io/typing-svg)
+
+</details>
+
+<b><details><summary>About Me</summary>
+
+<p align = 'right'>
+</p>
+<img src="https://github.com/mrjuice01/mrjuice02/assets/100421286/168ba41c-2004-437b-9b79-89cdcef3850e"width="800"> </a>
+    </p>
+
+
+- Hello Im Mr Juice. A Software Engineer.
+- Born In Space
+- Citizen Of The Earth
+- Based On the Internet
+- Age About 15000 years
+- Likes Gaming, Coding f Skiing
+- Special Skills: Patients, Passion & Focus
+- If You Like My Skills & Need Services you can hire me
+
+</b>
+</details>
 
 
 # 𝐒𝐎𝐅𝐓𝐖𝐀𝐑𝐄 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑
@@ -127,31 +149,10 @@
     <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dino_rounded.gif" width="800"> </a>
     </p>
 <br>
- 
-</details>
-
-<b><details><summary>About Me</summary>
-
-<p align = 'right'>
-</p>
-<img src="https://github.com/mrjuice01/mrjuice02/assets/100421286/168ba41c-2004-437b-9b79-89cdcef3850e"width="800"> </a>
-    </p>
-
-
-- Hello Im Mr Juice. A Software Engineer.
-- Born In Space
-- Citizen Of The Earth
-- Based On the Internet
-- Age About 15000 years
-- Likes Gaming, Coding f Skiing
-- Special Skills: Patients, Passion & Focus
-
-</b>
-</details>
 
 </details>
 
-<b><details><summary>Contact</summary>
+<b><details><summary>Contact Me</summary>
 
 <p align = 'right'>
 </p>
@@ -179,9 +180,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  />
   </a>
   <a href="https://www.youtube.com/@mrjuiceofc" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  />
-  </a>
-</div>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo" />
+  </a>&nbsp;&nbsp;
 
-</b>
-</details>
+#### If you have any querie, suggestions or you wanna hire me you can contact me i will be happy to respond. 
+<br>
