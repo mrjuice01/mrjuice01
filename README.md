@@ -12,13 +12,23 @@
 
 ## App Developer
 
+
 ## Web Developer
+![professional web dev](https://github.com/mrjuice01/mrjuice02/assets/100421286/4027eb12-f662-43b2-a052-6315aeb4331d)
+
 
 ## Full Stark Developer
+![projects](https://github.com/mrjuice01/mrjuice02/assets/100421286/d304bf38-ee82-4291-9cb7-1a9acb33506a)
+
+
 
 ## Front End Developer
+![frontend](https://github.com/mrjuice01/mrjuice02/assets/100421286/ff162672-9730-4a61-bf10-46c998cd0a9e)
+
 
 ## Back End Developer
+![back end](https://github.com/mrjuice01/mrjuice02/assets/100421286/d6b309e9-7c6e-4c31-9edc-56531758c2d4)
+
 
 </details>
 
