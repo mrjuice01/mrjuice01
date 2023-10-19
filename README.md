@@ -51,6 +51,7 @@
 - I'm intesested in Building Mobile Apps & Games for New Things
 - My Most Porpular App Is [𝗠𝗝 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽](https://mrjuiceofc1.blogspot.com/?m=1)
 - A Well secure & Fantastic Comunication App
+- [𝗣𝗿𝗲𝘃𝗶𝗲𝘄](https://www.youtube.com/watch?v=eTmt4Z_K2mA)
 - 𝗠𝗼𝘀𝘁𝗹𝘆 𝗨𝘀𝗲𝗱 𝗟𝗮𝗻𝗴𝘂𝗴𝗲𝘀
 - ![Xml](https://img.shields.io/badge/xml-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![SQLite](https://img.shields.io/badge/sqlite-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
@@ -62,6 +63,7 @@
 - I'm intesested in Customising & Editing Website
 - Check out my website [𝗺𝗿𝗷𝘂𝗶𝗰𝗲𝗼𝗳𝗰](https://mrjuice-ofc.vercel.app/)
 - Here You can Get more of my apps & projects
+- [𝗦𝗼𝘂𝗰𝗲 𝗖𝗼𝗱𝗲](https://github.com/mrjuice01/web2)
 - 𝗠𝗼𝘀𝘁𝗹𝘆 𝗨𝘀𝗲𝗱 𝗟𝗮𝗻𝗴𝘂𝗲𝗴𝗲𝘀
 - ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
@@ -72,8 +74,9 @@
 
 - Im A Passionate Full Stark Developer.
 - I'm still Searching for New Things & learning
-- My Top Notch Software Is [𝗖𝗵𝗮𝘁 𝗔𝗽𝗽](https://chat-app-tdk5.vercel.app/)
-- A Web App like whatsapl but Works Online
+- My Top Notch Software Is [𝗥𝗲𝗮𝗱𝗺𝗲 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿](https://readmemd.vercel.app/)
+- A No code Web App that can create cool readme.md pages for free without codding
+- [𝗦𝗼𝘂𝗰𝗲 𝗖𝗼𝗱𝗲](https://github.com/mrjuice01/Readme.MD-Generator)
 - 𝗠𝗼𝘀𝘁𝗹𝘆 𝗨𝘀𝗲𝗱 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
 - ![MySQL](https://img.shields.io/badge/mysql-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![SQLite](https://img.shields.io/badge/sqlite-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
@@ -85,6 +88,7 @@
 - I'm intesested in building small learning websites
 - My Front End project Is [𝗺𝗿𝗷𝘂𝗶𝗰𝗲𝗼𝗳𝗰](https://mr-juice.vercel.app/)
 - My Personal Portifolio
+- [𝗦𝗼𝘂𝗰𝗲 𝗖𝗼𝗱𝗲](https://github.com/mrjuice01/portfolioweb)
 - 𝗠𝗼𝘀𝘁𝗹𝘆 𝗨𝘀𝗲𝗱 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
 - ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
@@ -96,6 +100,7 @@
 - I'm intesested in building rest apis & sites
 - My Top Notch Project Is [𝗪𝗲𝗮𝘁𝗵𝗲𝗿 𝗔𝗽𝗽](https://weather-app-tdk5.vercel.app/)
 - A App that Can tell the current weather of any city
+- [𝗦𝗼𝘂𝗰𝗲 𝗖𝗼𝗱𝗲](https://github.com/mrjuice01/weather-app)
 - 𝗠𝗼𝘀𝘁𝗹𝘆 𝗨𝘀𝗲𝗱 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
 - ![MySQL](https://img.shields.io/badge/mysql-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![CSS](https://img.shields.io/badge/scc-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![SQLite](https://img.shields.io/badge/sqlite-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
