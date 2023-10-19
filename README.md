@@ -100,7 +100,7 @@
 - I'm intesested in building rest apis & sites
 - My Top Notch Project Is [𝗪𝗲𝗮𝘁𝗵𝗲𝗿 𝗔𝗽𝗽](https://weather-app-tdk5.vercel.app/)
 - A App that Can tell the current weather of any city
-- [𝗦𝗼𝘂𝗰𝗲 𝗖𝗼𝗱𝗲](https://github.com/mrjuice01/weather-app)
+- [𝗦𝗼𝘂𝗰𝗲 𝗖𝗼𝗱𝗲](https://github.com/mrjuice01/weather.app)
 - 𝗠𝗼𝘀𝘁𝗹𝘆 𝗨𝘀𝗲𝗱 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
 - ![MySQL](https://img.shields.io/badge/mysql-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![CSS](https://img.shields.io/badge/scc-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![SQLite](https://img.shields.io/badge/sqlite-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
