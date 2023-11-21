@@ -92,6 +92,17 @@
 - 𝗠𝗼𝘀𝘁𝗹𝘆 𝗨𝘀𝗲𝗱 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
 - ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+# GRAPHICS DESIGNER
+![design1](https://github.com/mrjuice01/mrjuice01/assets/100421286/b2e69170-e400-405e-a338-13bffb8b344a)
+
+
+- Im A Passionate Graphics Designer.
+- Im can create flyers, banners, invitation cards, bussines cards, innvitation cards
+- I sometimes work with Pixelit
+- You can hire me for your graphics designs
+- - 𝗠𝗼𝘀𝘁𝗹𝘆 𝗨𝘀𝗲𝗱 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
+- ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%23E34F26.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)&nbsp; ![canva](https://img.shields.io/badge/canva-%231572B6.svg?style=for-the-badge&logo=canva&logoColor=white)&nbsp; ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23323330.svg?style=for-the-badge&logo=adobe-llustrator&logoColor=%23F7DF1E)
+
 # 𝐁𝐀𝐂𝐊 𝐄𝐍𝐃 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑
 ![back end](https://github.com/mrjuice01/mrjuice01/assets/100421286/42de8e15-a3f8-40fc-9da4-dc3b556c3eeb)
 
