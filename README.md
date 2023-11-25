@@ -148,9 +148,11 @@
 </p>
 
 
-<p align="center"><a href="https://github.com/mrjuice01"><img title="Mr Juice" src="https://github-readme-stats.vercel.app/api?username=mrjuice01&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
-</p>
-<p align="center"> 
+![Github Badges](https://github-readme-stats.vercel.app/api?username=mrjuice01&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrjuice01&layout=compact)](https://github.com/mrjuice01/github-readme-stats)<br>
+<p align="right"> 
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=mrjuice01&theme=onestar&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=15&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
   
