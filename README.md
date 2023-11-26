@@ -3,7 +3,7 @@
 
 <h1 align="center">Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, To My Github </h1>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4B0082&width=470&lines=𝐈'𝐌+𝐌𝐑+𝐉𝐔𝐈𝐂𝐄;𝐈'𝐌+𝐀+𝐒𝐎𝐅𝐓𝐖𝐀𝐑𝐄+𝐄𝐍𝐆𝐈𝐍𝐄𝐄𝐑𝐈𝐍𝐆+𝐒𝐓𝐔𝐃𝐄𝐍𝐓;𝐈'𝐌+𝐀+𝐒𝐎𝐅𝐓𝐖𝐀𝐑𝐄+𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐑𝐑+;𝐈'𝐌+𝐀+𝐅𝐔𝐋𝐋+𝐒𝐓𝐀𝐑𝐊+𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑+;𝐈'𝐌+𝐀+𝐘𝐎𝐔𝐓𝐔𝐁𝐄𝐑+;𝐈'𝐌+𝐀+𝐅𝐑𝐄𝐄𝐋𝐀𝐍𝐂𝐄𝐑+;𝐈'𝐌+𝐀+𝐁𝐋𝐎𝐆𝐆𝐄𝐑)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4B0082&width=470&lines=𝐈'𝐌+𝐌𝐑+𝐉𝐔𝐈𝐂𝐄;𝐈'𝐌+𝐀+𝐒𝐎𝐅𝐓𝐖𝐀𝐑𝐄+𝐄𝐍𝐆𝐈𝐍𝐄𝐄𝐑𝐈𝐍𝐆+𝐒𝐓𝐔𝐃𝐄𝐍𝐓;𝐈'𝐌+𝐀+𝐒𝐎𝐅𝐓𝐖𝐀𝐑𝐄+𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐑+;𝐈'𝐌+𝐀+𝐅𝐔𝐋𝐋+𝐒𝐓𝐀𝐑𝐊+𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑+;𝐈'𝐌+𝐀+𝐘𝐎𝐔𝐓𝐔𝐁𝐄𝐑+;𝐈'𝐌+𝐀+𝐅𝐑𝐄𝐄𝐋𝐀𝐍𝐂𝐄𝐑+;𝐈'𝐌+𝐀+𝐁𝐋𝐎𝐆𝐆𝐄𝐑)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=mrjuice01&style=flat-square)
 
@@ -22,7 +22,7 @@
 - Citizen Of The Earth
 - Based On the Internet
 - Age About 15000 years
-- Likes Gaming, Coding f Skiing
+- Likes Gaming, Coding & Skiing
 - Special Skills: Patients, Passion & Focus
 - If You Like My Skills & Need Services you can hire me
 
@@ -154,7 +154,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrjuice01&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)](https://github.com/mrjuice01/github-readme-stats)<br>
 <p align="right"> 
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=mrjuice01&row=2&column=3&show_icons=true&include_all_commits=true&theme=charcoal-dark&cache_seconds=3200)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=mrjuice01&row=2&column=3&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)](https://github.com/ryo-ma/github-profile-trophy)
   
 </p>
 
