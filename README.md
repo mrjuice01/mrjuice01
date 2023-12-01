@@ -7,8 +7,6 @@
 
 ![](https://komarev.com/ghpvc/?username=mrjuice01&style=flat-square)
 
-</details>
-
 <b><details><summary>About Me</summary>
 
 <p align = 'right'>
@@ -25,6 +23,13 @@
 - Likes Gaming, Coding & Skiing
 - Special Skills: Patients, Passion & Focus
 - If You Like My Skills & Need Services you can hire me
+
+</p>
+<h2 align="center"> ☺️❤️ Now Playing On Spotify ☺️❤️
+</h2>
+<p align="center"> <img src="https://kai-spotify.vercel.app/api/spotify" alt="kai0071" /> </p>
+</details>
+
 
 </b>
 </details>
@@ -152,7 +157,7 @@
 <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrjuice01&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)](https://github.com/mrjuice01/github-readme-stats)<br>
-<p align="right"> 
+<p align="right">
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=mrjuice01&row=2&column=3&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)](https://github.com/ryo-ma/github-profile-trophy)
   
