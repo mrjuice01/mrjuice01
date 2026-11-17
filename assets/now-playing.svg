@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="88" viewBox="0 0 440 88">
+  <defs>
+    <linearGradient id="cover" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2c3e50"/>
+      <stop offset="100%" stop-color="#1a1a2e"/>
+    </linearGradient>
+    <style>
+      .kicker { font: 600 10px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #1DB954; letter-spacing: 0.8px; }
+      .song { font: 700 15px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #ffffff; }
+      .artist { font: 400 12px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #b3b3b3; }
+      .bar { fill: #1DB954; rx: 1.5; transform-box: fill-box; transform-origin: bottom; }
+      .b1 { animation: eq 0.9s ease-in-out infinite alternate; }
+      .b2 { animation: eq 0.6s ease-in-out 0.2s infinite alternate; }
+      .b3 { animation: eq 1.05s ease-in-out 0.1s infinite alternate; }
+      @keyframes eq { 0% { transform: scaleY(0.3); } 100% { transform: scaleY(1); } }
+    </style>
+  </defs>
+
+  <!-- Authentic Spotify Dark Card -->
+  <rect x="0.5" y="0.5" width="439" height="87" rx="10" fill="#121212" stroke="#282828" stroke-width="1"/>
+
+  <!-- Minimal Album Art -->
+  <rect x="12" y="12" width="64" height="64" rx="6" fill="url(#cover)"/>
+  <circle cx="44" cy="44" r="14" fill="none" stroke="#f5d061" stroke-width="1.4" opacity="0.8"/>
+  <circle cx="44" cy="44" r="3" fill="#f5d061" opacity="0.9"/>
+  <line x1="44" y1="24" x2="44" y2="30" stroke="#f5d061" stroke-width="1.2" opacity="0.7"/>
+  <line x1="44" y1="58" x2="44" y2="64" stroke="#f5d061" stroke-width="1.2" opacity="0.7"/>
+  <line x1="24" y1="44" x2="30" y2="44" stroke="#f5d061" stroke-width="1.2" opacity="0.7"/>
+  <line x1="58" y1="44" x2="64" y2="44" stroke="#f5d061" stroke-width="1.2" opacity="0.7"/>
+
+  <!-- Spotify Icon -->
+  <circle cx="96" cy="24" r="7" fill="#1DB954"/>
+  <path d="M92.3 22.5c2.5-.7 5.2-.4 7.4.7M92.8 24.4c2-.5 4.2-.3 5.9.5M93.3 26.2c1.5-.3 3.1-.2 4.4.4" fill="none" stroke="#121212" stroke-width="1.3" stroke-linecap="round"/>
+
+  <!-- Text -->
+  <text x="109" y="27.5" class="kicker">Listening on Spotify</text>
+  <text x="89" y="48" class="song">Dandelions</text>
+  <text x="89" y="65" class="artist">Ruth B.</text>
+
+  <!-- Subtle Progress Bar -->
+  <rect x="89" y="74" width="290" height="3" rx="1.5" fill="#2a2a2a"/>
+  <rect x="89" y="74" width="165" height="3" rx="1.5" fill="#1DB954"/>
+
+  <!-- Clean 3-Bar Equalizer -->
+  <rect x="404" y="34" width="4" height="22" class="bar b1"/>
+  <rect x="411" y="34" width="4" height="22" class="bar b2"/>
+  <rect x="418" y="34" width="4" height="22" class="bar b3"/>
+</svg>

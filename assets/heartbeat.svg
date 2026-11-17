@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="96" viewBox="0 0 900 96">
+  <defs>
+    <style>
+      .heart {
+        transform-origin: 42px 48px;
+        animation: lubdub 1.35s ease-in-out infinite;
+      }
+      @keyframes lubdub {
+        0%, 100% { transform: scale(1); }
+        12% { transform: scale(1.09); }
+        24% { transform: scale(1); }
+        36% { transform: scale(1.06); }
+        52% { transform: scale(1); }
+      }
+      .ecg {
+        fill: none;
+        stroke: #e11d48;
+        stroke-width: 2;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-dasharray: 220 980;
+        animation: sweep 3.4s linear infinite;
+      }
+      @keyframes sweep {
+        0% { stroke-dashoffset: 1200; }
+        100% { stroke-dashoffset: 0; }
+      }
+      .label {
+        font: 500 11px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+        fill: #8b949e;
+        letter-spacing: 0.4px;
+      }
+    </style>
+  </defs>
+
+  <rect width="900" height="96" rx="8" fill="#0d1117"/>
+
+  <!-- Subtle Beating Heart -->
+  <g class="heart">
+    <path d="M42 61 C42 61 24 49 24 37 C24 30 29.5 26 35 26 C38.5 26 41 28 42 30.5 C43 28 45.5 26 49 26 C54.5 26 60 30 60 37 C60 49 42 61 42 61 Z"
+          fill="#e11d48"/>
+  </g>
+
+  <!-- Subtle Static ECG Track -->
+  <path d="M 80,48 L 150,48 L 162,42 L 170,48 L 182,48 L 188,56 L 198,18 L 208,68 L 216,48 L 228,40 L 240,48
+           L 330,48 L 342,42 L 350,48 L 362,48 L 368,56 L 378,18 L 388,68 L 396,48 L 408,40 L 420,48
+           L 510,48 L 522,42 L 530,48 L 542,48 L 548,56 L 558,18 L 568,68 L 576,48 L 588,40 L 600,48
+           L 690,48 L 702,42 L 710,48 L 722,48 L 728,56 L 738,18 L 748,68 L 756,48 L 768,40 L 780,48 L 875,48"
+        fill="none" stroke="#21262d" stroke-width="1.4"/>
+
+  <!-- Smooth ECG Pulse -->
+  <path class="ecg"
+        d="M 80,48 L 150,48 L 162,42 L 170,48 L 182,48 L 188,56 L 198,18 L 208,68 L 216,48 L 228,40 L 240,48
+           L 330,48 L 342,42 L 350,48 L 362,48 L 368,56 L 378,18 L 388,68 L 396,48 L 408,40 L 420,48
+           L 510,48 L 522,42 L 530,48 L 542,48 L 548,56 L 558,18 L 568,68 L 576,48 L 588,40 L 600,48
+           L 690,48 L 702,42 L 710,48 L 722,48 L 728,56 L 738,18 L 748,68 L 756,48 L 768,40 L 780,48 L 875,48"/>
+
+  <text x="80" y="82" class="label">Coding from the heart</text>
+</svg>
