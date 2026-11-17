@@ -8,21 +8,20 @@
   </a>
 </p>
 
-<!-- Social & Website Icons -->
+<!-- Social & Website Icons (Iconify) -->
 <p align="center">
-  <a href="https://mrjuice.vercel.app/" title="Website"><img src="https://img.icons8.com/fluency/48/domain.png" width="32" height="32" alt="Website" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/people/Decide-Tawanda/100080634577978/" title="Facebook"><img src="https://img.icons8.com/fluency/48/facebook-new.png" width="32" height="32" alt="Facebook" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mrjuiceofc/" title="LinkedIn"><img src="https://img.icons8.com/fluency/48/linkedin.png" width="32" height="32" alt="LinkedIn" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@mrjuiceofc" title="YouTube"><img src="https://img.icons8.com/fluency/48/youtube-play.png" width="32" height="32" alt="YouTube" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/mr_juice7" title="Instagram"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="32" height="32" alt="Instagram" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:mrjuice017@gmail.com" title="Email"><img src="https://img.icons8.com/fluency/48/gmail-new.png" width="32" height="32" alt="Email" /></a>
+  <a href="https://mrjuice.vercel.app/" title="Website"><img src="https://api.iconify.design/lucide/globe.svg?color=%2338bdf8" width="28" height="28" alt="Website" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/people/Decide-Tawanda/100080634577978/" title="Facebook"><img src="https://api.iconify.design/mdi/facebook.svg?color=%231877F2" width="28" height="28" alt="Facebook" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mrjuiceofc/" title="LinkedIn"><img src="https://api.iconify.design/mdi/linkedin.svg?color=%230A66C2" width="28" height="28" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@mrjuiceofc" title="YouTube"><img src="https://api.iconify.design/mdi/youtube.svg?color=%23FF0000" width="28" height="28" alt="YouTube" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/mr_juice7" title="Instagram"><img src="https://api.iconify.design/mdi/instagram.svg?color=%23E4405F" width="28" height="28" alt="Instagram" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mrjuice017@gmail.com" title="Email"><img src="https://api.iconify.design/mdi/gmail.svg?color=%23EA4335" width="28" height="28" alt="Email" /></a>
 </p>
-
 <!-- Follow Me & Hire Me Buttons -->
 <p align="center">
   <a href="https://github.com/mrjuice01">
