@@ -30,7 +30,33 @@
         fill: #8b949e;
         letter-spacing: 0.4px;
       }
+      .miniHeart {
+        transform-origin: 805px 78px;
+        animation: lubdub 1.35s ease-in-out infinite;
+      }
+      .typeLeft {
+        animation: typeL 5.5s steps(9, end) infinite;
+      }
+      .typeRight {
+        animation: typeR 5.5s steps(11, end) infinite;
+      }
+      @keyframes typeL {
+        0% { width: 0; }
+        22%, 90% { width: 65px; }
+        96%, 100% { width: 0; }
+      }
+      @keyframes typeR {
+        0%, 22% { width: 0; }
+        46%, 90% { width: 70px; }
+        96%, 100% { width: 0; }
+      }
     </style>
+    <clipPath id="clipLeft">
+      <rect x="735" y="70" width="65" height="18" class="typeLeft"/>
+    </clipPath>
+    <clipPath id="clipRight">
+      <rect x="815" y="70" width="70" height="18" class="typeRight"/>
+    </clipPath>
   </defs>
 
   <rect width="900" height="96" rx="8" fill="#0d1117"/>
@@ -56,4 +82,12 @@
            L 690,48 L 702,42 L 710,48 L 722,48 L 728,56 L 738,18 L 748,68 L 756,48 L 768,40 L 780,48 L 875,48"/>
 
   <text x="80" y="82" class="label">Coding from the heart</text>
+
+  <!-- Far Right Footer: typing "Made with" + pulsing heart + typing "by Mr Juice" -->
+  <text x="739" y="82" class="label" clip-path="url(#clipLeft)">Made with</text>
+  <g class="miniHeart">
+    <path d="M805 83 C805 83 799 79.2 799 75.5 C799 73.5 800.6 72.2 802.4 72.2 C803.6 72.2 804.5 72.8 805 73.7 C805.5 72.8 806.4 72.2 807.6 72.2 C809.4 72.2 811 73.5 811 75.5 C811 79.2 805 83 805 83 Z"
+          fill="#e11d48"/>
+  </g>
+  <text x="816" y="82" class="label" clip-path="url(#clipRight)">by Mr Juice</text>
 </svg>
