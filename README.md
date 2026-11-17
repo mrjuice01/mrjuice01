@@ -1,7 +1,5 @@
 <!-- Animated Wave Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Mr%20Juice&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20AI%20%26%20Security&descAlignY=62&descSize=18" width="100%" alt="Mr Juice Header" />
-</p>
+
 
 <!-- Animated Typing Tagline -->
 <p align="center">
